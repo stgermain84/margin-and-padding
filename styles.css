@@ -22,7 +22,6 @@ body {
   background: peachpuff;
   border: 3px solid brown;
   width: 200px;
-  margin-right: 50%;
   padding: 0px;
-  margin-left: 0px;
+  margin-left: auto;
 }
